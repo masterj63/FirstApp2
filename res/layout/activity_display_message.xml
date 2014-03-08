@@ -5,4 +5,3 @@
     android:layout_height="match_parent"
     tools:context="mdev.master_j.firstapp2.DisplayMessageActivity"
     tools:ignore="MergeRootFrame" />
-
